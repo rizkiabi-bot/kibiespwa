@@ -1,0 +1,23 @@
+{
+    "name": "Kibies",
+    "short_name": "Kibies",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEwagsNxQss322MJHaJSGLIne7cqMu0stz4HLaURiZX2AnPFKprPKbX_9Wfe8XHoGbJdiES22v53o6ONPC1RhXACb5hguWaYqiOzctfRhNgpBeS0JnUxRLZVOCq9EdVmUJ3w2R_xH1TSGGdd3I4e3bnEj2Rek5gCd7-VvTD2uIzN0cKLA/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH0szN-DU1KJI19-zNCM_UTZTnhqaaKBlYuyJIJAH61eeyFqQUm98az_wNE36nZgqyYWpWVtothSoTf7a8Zfq1Xwd2ZGeACnuMDgA8VnGfuRZm_hpkNtlL73Rijpek_cI_RTPtTdQMnVUGwD1iLSxCThRy0xFzD1oXLAAsOgCblLQZOM0/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#40e0d0",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.kibies.id"
+}
